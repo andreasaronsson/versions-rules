@@ -6,7 +6,8 @@
     <ignoreVersion type="regex">.*alpha.[0-9]*</ignoreVersion>
     <ignoreVersion type="regex">.*Alpha.*</ignoreVersion>
     <ignoreVersion type="regex">.*beta.*</ignoreVersion>
-    <ignoreVersion type="regex">.*Beta.*</ignoreVersion>           
+    <ignoreVersion type="regex">.*Beta.*</ignoreVersion>
+    <ignoreVersion type="regex">.*Beta</ignoreVersion>
     <ignoreVersion type="regex">.*M[0-9].*</ignoreVersion>
     <ignoreVersion type="regex">.*rc[0-9].*</ignoreVersion>
     <ignoreVersion type="regex">.*RC[0-9].*</ignoreVersion>
